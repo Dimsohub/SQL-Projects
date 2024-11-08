@@ -1,2 +1,4 @@
 /.vscode
 /csv_files
+project_sql/top_paying_job_skills.json
+project_sql/top_paying_skills.json
